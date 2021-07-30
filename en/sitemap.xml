@@ -3,18 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/en/tags/css/</loc>
-    <lastmod>2020-11-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/en/tags/html/</loc>
-    <lastmod>2020-11-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/en/</loc>
-    <lastmod>2020-11-09T00:00:00+00:00</lastmod>
+    <lastmod>2021-07-30T13:24:36+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
@@ -33,18 +23,13 @@
   </url>
   
   <url>
-    <loc>/en/tags/markdown/</loc>
-    <lastmod>2020-11-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/en/posts/markdown-syntax/</loc>
-    <lastmod>2020-11-09T00:00:00+00:00</lastmod>
+    <loc>/en/posts/newpost/</loc>
+    <lastmod>2021-07-30T13:24:36+09:00</lastmod>
   </url>
   
   <url>
     <loc>/en/posts/</loc>
-    <lastmod>2020-11-09T00:00:00+00:00</lastmod>
+    <lastmod>2021-07-30T13:24:36+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
@@ -60,6 +45,26 @@
                 hreflang="en"
                 href="/en/posts/"
                 />
+  </url>
+  
+  <url>
+    <loc>/en/tags/css/</loc>
+    <lastmod>2020-11-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/tags/html/</loc>
+    <lastmod>2020-11-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/tags/markdown/</loc>
+    <lastmod>2020-11-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/posts/markdown-syntax/</loc>
+    <lastmod>2020-11-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
