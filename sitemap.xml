@@ -1,44 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
-  <url>
-    <loc>/tags/aaa/</loc>
-    <lastmod>2021-07-31T23:10:56+09:00</lastmod>
-  </url>
+  <sitemap>
+    <loc>/en/sitemap.xml</loc>
+    
+      <lastmod>2021-07-31T23:10:56+09:00</lastmod>
+    
+  </sitemap>
   
-  <url>
-    <loc>/</loc>
-    <lastmod>2021-07-31T23:10:56+09:00</lastmod>
-  </url>
+  <sitemap>
+    <loc>/fr/sitemap.xml</loc>
+    
+  </sitemap>
   
-  <url>
-    <loc>/timeline/my-second-post/</loc>
-    <lastmod>2021-07-31T23:10:56+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2021-07-31T23:10:56+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/test/</loc>
-    <lastmod>2021-07-31T23:10:56+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/timeline/</loc>
-    <lastmod>2021-07-31T23:10:56+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/timeline/my-first-post/</loc>
-    <lastmod>2015-07-31T23:02:22+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-  </url>
-  
-</urlset>
+</sitemapindex>

@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Timelines on ED HO Hugo Site</title>
+        <title>Timelines on ED HO</title>
         <link>/timeline/</link>
-        <description>Recent content in Timelines on ED HO Hugo Site</description>
+        <description>Recent content in Timelines on ED HO</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-tw</language>
         <lastBuildDate>Sat, 31 Jul 2021 23:10:56 +0900</lastBuildDate>
