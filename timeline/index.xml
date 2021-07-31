@@ -1,0 +1,126 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Timelines on ED HO Hugo Site</title>
+        <link>/timeline/</link>
+        <description>Recent content in Timelines on ED HO Hugo Site</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-tw</language>
+        <lastBuildDate>Sat, 31 Jul 2021 23:10:56 +0900</lastBuildDate>
+        <atom:link href="/timeline/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>My Second  Post</title>
+            <link>/timeline/my-second-post/</link>
+            <pubDate>Sat, 31 Jul 2021 23:10:56 +0900</pubDate>
+            
+            <guid>/timeline/my-second-post/</guid>
+            <description>以下字段均为选填，如不需要，则无需填写 name: ED avatar: https://media.discordapp.net/attachments/505645287847755787/871033489997328454/221252381_10222200700980262_5186299088260393903_n.png avatarCircle: true graduation: &amp;lsquo;school/2016&amp;rsquo; blog: https://edarir.wordpress.com desc: 一个缓慢而又坚定前行的小小前端
+github: EDAriR email: me@shanyue.tech
+可以不使用星标评估 skills:
+ [Javascript, 5] [React, 4] [Next, 4] [Vite, 3] Remark Babel Nest Koa   工作经历 山月科技 (2016-2019) 前端 独立负责XXXX系统
+水风科技 (2019-至今) 前端负责人 独立负责XXXX系统与部门中前端基础建设
+项目 码途编辑器 为开发人员提供更好的 Markdown 编辑器，并支持微信格式、多模板、多主题、思维导图等多种特性。
+技术栈  react/next.js remark/rehype/bytemd  难点  自动添加思维导图。难点在于自动生成 TOC，并根据 TOC 自动生成本篇文章的思维导图支持。通过自定义 Markdown 中 code 的编程语言，根据 AST 各种转换编写 Remark/Rehype 插件。其中编写的插件已发布在 npm，可见 remark-markmap-plugin，在此过程中并向 bytemd 贡献了代码，见 bytemd 链接采集为 Markdown。难点在于如何根据 URL 读取有意义内容并转化为 Markdown。目前已发包在 npm，可见 markdown-read 复制微信代码。难点在于 Clipboard API 的熟悉及避坑，及对微信浏览器内容格式的各种兼容  一纸简历 开发人员使用 Markdown 制作模板，支持 PDF 一页模式导出。</description>
+            <content type="html"><![CDATA[<hr>
+<h1 id="以下字段均为选填如不需要则无需填写">以下字段均为选填，如不需要，则无需填写</h1>
+<p>name: ED
+avatar: <a href="https://media.discordapp.net/attachments/505645287847755787/871033489997328454/221252381_10222200700980262_5186299088260393903_n.png">https://media.discordapp.net/attachments/505645287847755787/871033489997328454/221252381_10222200700980262_5186299088260393903_n.png</a>
+avatarCircle: true
+graduation: &lsquo;school/2016&rsquo;
+blog: <a href="https://edarir.wordpress.com">https://edarir.wordpress.com</a>
+desc: 一个缓慢而又坚定前行的小小前端</p>
+<p>github: EDAriR
+email: <a href="mailto:me@shanyue.tech">me@shanyue.tech</a></p>
+<h1 id="可以不使用星标评估">可以不使用星标评估</h1>
+<p>skills:</p>
+<ul>
+<li>[Javascript, 5]</li>
+<li>[React, 4]</li>
+<li>[Next, 4]</li>
+<li>[Vite, 3]</li>
+<li>Remark</li>
+<li>Babel</li>
+<li>Nest</li>
+<li>Koa</li>
+</ul>
+<hr>
+<h2 id="工作经历">工作经历</h2>
+<h3 id="山月科技-2016-2019-前端">山月科技 (2016-2019) 前端</h3>
+<p>独立负责XXXX系统</p>
+<h3 id="水风科技-2019-至今-前端负责人">水风科技 (2019-至今) 前端负责人</h3>
+<p>独立负责XXXX系统与部门中前端基础建设</p>
+<h2 id="项目">项目</h2>
+<h3 id="码途编辑器">码途编辑器</h3>
+<p>为开发人员提供更好的 Markdown 编辑器，并支持微信格式、多模板、多主题、思维导图等多种特性。</p>
+<h4 id="技术栈">技术栈</h4>
+<ul>
+<li>react/next.js</li>
+<li>remark/rehype/bytemd</li>
+</ul>
+<h4 id="难点">难点</h4>
+<ol>
+<li>自动添加思维导图。难点在于自动生成 TOC，并根据 TOC 自动生成本篇文章的思维导图支持。通过自定义 Markdown 中 code 的编程语言，根据 AST 各种转换编写 Remark/Rehype 插件。其中编写的插件已发布在 npm，可见 <a href="https://shanyue.tech">remark-markmap-plugin</a>，在此过程中并向 bytemd 贡献了代码，见 <a href="https://github.com/bytedance/bytemd/commits?author=shfshanyue">bytemd</a></li>
+<li>链接采集为 Markdown。难点在于如何根据 URL 读取有意义内容并转化为 Markdown。目前已发包在 npm，可见 <a href="https://npm.devtool.tech/markdown-read">markdown-read</a></li>
+<li>复制微信代码。难点在于 Clipboard API 的熟悉及避坑，及对微信浏览器内容格式的各种兼容</li>
+</ol>
+<h3 id="一纸简历">一纸简历</h3>
+<p>开发人员使用 Markdown 制作模板，支持 PDF 一页模式导出。</p>
+<h4 id="技术栈-1">技术栈</h4>
+<ul>
+<li>react/next.js</li>
+<li>remark/rehype/react-markdown</li>
+<li>react-pdf</li>
+</ul>
+<h4 id="难点-1">难点</h4>
+<ol>
+<li>自动一页简历</li>
+<li>前端渲染PDF</li>
+<li>PDF 中样式设置</li>
+</ol>
+]]></content>
+        </item>
+        
+        <item>
+            <title>My First Post</title>
+            <link>/timeline/my-first-post/</link>
+            <pubDate>Fri, 31 Jul 2015 23:02:22 +0900</pubDate>
+            
+            <guid>/timeline/my-first-post/</guid>
+            <description>NEWWWWWWW aaaaaaa bbbbbb aaaacc
+AAAAAAA aaaaa aaaa
+BBBB bbbbbbb
+CODE hugo new timeline/my-first-post.md youtube-dl -f 137+140 https://youtu.be/h_FcfU32GWI youtube-dl -f &amp;#39;bestvideo[ext=mp4]+bestaudio[ext=m4a]/mp4&amp;#39; url youtube-dl -f &amp;#39;bestvideo[ext=mp4]+bestaudio[ext=m4a]/mp4&amp;#39; url --cookies youtube.com_cookies.txt youtube-dl -f &amp;#39;bestvideo[ext=mp4]+bestaudio[ext=m4a]/mp4&amp;#39; https://youtu.be/PLIMURh-p3c --cookies youtube.com_cookies.txt youtube-dl &amp;#39;https://www.youtube.com/watch?v=GwIzYX5t5l4&amp;#39; --format &amp;#34;bestvideo+bestaudio[ext=m4a]/bestvideo+bestaudio/best&amp;#34; --merge-output-format mp4 播放列表下載 youtube-dl -if &amp;#39;bestvideo[ext=mp4]+bestaudio[ext=m4a]/mp4&amp;#39; &amp;#39;https://www.youtube.com/playlist?list=PL-hn9YvtxGt6JqApEBigaGGe1fwg9mDZo&amp;#39; youtube-dl -if &amp;#39;bestvideo[ext=mp4]+bestaudio[ext=m4a]/mp4&amp;#39; &amp;#39;https://www.youtube.com/playlist?list=PLw58RgSzDmjp6ZxHogor2Il9F1M2kCTg5&amp;#39; --cookies youtube.com_cookies.txt VLC 串流 youtube-dl -o - &amp;#34;https://youtu.be/M_oGgV7nmko&amp;#34; | vlc - --fullscreen --video-on-top --loop </description>
+            <content type="html"><![CDATA[<h2 id="newwwwwww">NEWWWWWWW</h2>
+<p>aaaaaaa
+bbbbbb
+aaaacc</p>
+<h2 id="aaaaaaa">AAAAAAA</h2>
+<p>aaaaa
+aaaa</p>
+<h3 id="bbbb">BBBB</h3>
+<p>bbbbbbb</p>
+<h4 id="code">CODE</h4>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-shell" data-lang="shell">hugo new timeline/my-first-post.md
+
+youtube-dl -f 137+140 https://youtu.be/h_FcfU32GWI
+
+youtube-dl -f <span style="color:#e6db74">&#39;bestvideo[ext=mp4]+bestaudio[ext=m4a]/mp4&#39;</span> url
+
+youtube-dl -f <span style="color:#e6db74">&#39;bestvideo[ext=mp4]+bestaudio[ext=m4a]/mp4&#39;</span> url  --cookies youtube.com_cookies.txt
+
+youtube-dl -f <span style="color:#e6db74">&#39;bestvideo[ext=mp4]+bestaudio[ext=m4a]/mp4&#39;</span> https://youtu.be/PLIMURh-p3c  --cookies youtube.com_cookies.txt
+
+youtube-dl <span style="color:#e6db74">&#39;https://www.youtube.com/watch?v=GwIzYX5t5l4&#39;</span> --format <span style="color:#e6db74">&#34;bestvideo+bestaudio[ext=m4a]/bestvideo+bestaudio/best&#34;</span> --merge-output-format mp4
+
+播放列表下載
+youtube-dl -if <span style="color:#e6db74">&#39;bestvideo[ext=mp4]+bestaudio[ext=m4a]/mp4&#39;</span> <span style="color:#e6db74">&#39;https://www.youtube.com/playlist?list=PL-hn9YvtxGt6JqApEBigaGGe1fwg9mDZo&#39;</span>
+
+youtube-dl -if <span style="color:#e6db74">&#39;bestvideo[ext=mp4]+bestaudio[ext=m4a]/mp4&#39;</span> <span style="color:#e6db74">&#39;https://www.youtube.com/playlist?list=PLw58RgSzDmjp6ZxHogor2Il9F1M2kCTg5&#39;</span>  --cookies youtube.com_cookies.txt
+
+VLC 串流
+ youtube-dl -o - <span style="color:#e6db74">&#34;https://youtu.be/M_oGgV7nmko&#34;</span> | vlc - --fullscreen --video-on-top --loop
+</code></pre></div>]]></content>
+        </item>
+        
+    </channel>
+</rss>
