@@ -24,6 +24,7 @@ github: EDAriR email: me@shanyue.tech
             <content type="html"><![CDATA[<hr>
 <h1 id="以下字段均为选填如不需要则无需填写">以下字段均为选填，如不需要，则无需填写</h1>
 <p>name: ED
+<img src="/images/logo.webp" alt="我是一張圖">
 avatar: <a href="https://media.discordapp.net/attachments/505645287847755787/871033489997328454/221252381_10222200700980262_5186299088260393903_n.png">https://media.discordapp.net/attachments/505645287847755787/871033489997328454/221252381_10222200700980262_5186299088260393903_n.png</a>
 avatarCircle: true
 graduation: &lsquo;school/2016&rsquo;
